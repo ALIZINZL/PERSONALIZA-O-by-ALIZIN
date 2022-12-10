@@ -6,7 +6,7 @@ print("")
 
 color = ["\033[1;31m","\033[1;32m"]
 
-m = random.choice(color)+"bem vindo my cria THBD \n"
+m = random.choice(color)+"bem vindo my cria LZIN \n"
 
 for msg in m:
 
