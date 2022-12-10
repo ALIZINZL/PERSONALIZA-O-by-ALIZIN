@@ -26,7 +26,7 @@ Copyright © ALIZIN DEV
    
 ### ✅ MY  NÚMERO !
 
-<a href="wa.me/17755462690?text=VS CRIA, VIM PELO SEU GITHUB, SOBRE A PERSONALIZAÇÃO DO TERMUX !!" target="blank"><img src="https://img.shields.io/badge/1️⃣_ALIZIN DEV-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/17755462690?text=VS CRIA, VIM PELO SEU GITHUB, SOBRE A PERSONALIZAÇÃO DO TERMUX !!" target="blank"><img src="https://img.shields.io/badge/1️⃣_ALIZIN DEV-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 </a>
 
@@ -35,10 +35,9 @@ Copyright © ALIZIN DEV
 
    
 
-   É MANEIRINHO A PERSONALIZAÇÃO...
+  # É MANEIRINHO A PERSONALIZAÇÃO...
 
-   VEM COM DATA E A HORA... A DATA ESTÁ EM INGLÊS... PQ EU GOSTO DE INGLÊS, E REUTILIZEI A LINGUAGEM DA DATA EM INGLÊS... ( MAS NÃO AH 
+  # VEM COM DATA E A HORA... A DATA ESTÁ EM INGLÊS... PQ EU GOSTO DE INGLÊS, E REUTILIZEI A LINGUAGEM DA DATA EM INGLÊS... ( MAS NÃO AH PROBLEMA )
 
-   PROBLEMA )
    
    # BY ALIZIN DEV 💔🙅🏽‍♂️🥷🏾
