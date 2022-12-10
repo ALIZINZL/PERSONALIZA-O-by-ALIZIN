@@ -27,7 +27,7 @@ Copyright © ALIZIN DEV
    
 ### ✅ MY  NÚMERO !
 
-<a href="https://wa.me/17755462690?text=VS CRIA, VIM PELO SEU GITHUB, SOBRE A PERSONALIZAÇÃO DO TERMUX !!" target="blank"><img src="https://img.shields.io/badge/1️⃣_ALIZIN DEV-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/17755462690?text=vs alizin, vim pelo teu github, sobre a personalização do termux !!" target="blank"><img src="https://img.shields.io/badge/1️⃣_ALIZIN DEV-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 </a>
 
