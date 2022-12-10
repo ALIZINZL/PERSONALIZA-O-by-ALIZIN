@@ -8,6 +8,8 @@
 
 
 
+
+
 # ESSE REPOSITÓRIO É ONDE SE LOCALIZA OS PACOTES DE COR/LETRAS/FONTE/E MAIS OUTROS BAGULHO AI
 
 
@@ -21,8 +23,12 @@ Copyright © ALIZIN DEV
    BROTA AKI NO MY WHATSAPP, Q EU TE PASSO!
 
    
+### ✅ MY  NÚMERO !
 
-   ![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285295374964?text=VS ALIZIN, VIM PELO TEU GITHUB, SOBRE A PERSONALIZAÇÃO!) 
+<a href="wa.me/17755462690?text=VS CRIA, VIM PELO SEU GITHUB, SOBRE A PERSONALIZAÇÃO DO TERMUX !!" target="blank"><img src="https://img.shields.io/badge/1️⃣_ALIZIN DEV-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
+</a>
+
 
    
 
