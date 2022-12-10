@@ -16,6 +16,7 @@
 
 Copyright © ALIZIN DEV 
 
+
    QUEM QUISER O ARQUIVO DA PERSONALIZAÇÃO DO   TERMUX 
 
    
