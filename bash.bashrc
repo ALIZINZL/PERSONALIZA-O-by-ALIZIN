@@ -18,7 +18,6 @@ echo "
 
          noiix hackemaos para expressar 😈
 
-                        We HaCk To Express
 
    < ━━━━━━━━━━━ [★] alizin dev [★] ━━━━━━━━━━━━ > " |lolcat
 
