@@ -20,5 +20,5 @@ m = random.choice(color)+"████▀░░░░░░░░░░░░░
 for msg in m:
     sys.stdout.write(msg)
     sys.stdout.flush()
-    time.sleep(0.06)
+    time.sleep(0.09)
 print("")
