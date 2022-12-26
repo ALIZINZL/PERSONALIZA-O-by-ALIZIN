@@ -1,19 +1,10 @@
 clear
 
-echo
+import os,sys,time
 
-echo "
+print("")
 
-    " |lolcat
-
-echo
-
-    echo "  " |lolcat
-
-figlet    '    ALIZIN' |lolcat
-
-echo "
-████▀░░░░░░░░░░░░░░░░░▀████
+print("████▀░░░░░░░░░░░░░░░░░▀████
 ███│░░░░░░░░░░░░░░░░░░░│███
 ██▌│░░░░░░░░░░░░░░░░░░░│▐██
 ██░└┐░░░░░░░░░░░░░░░░░┌┘░██
@@ -27,29 +18,17 @@ echo "
 █████░░▐█─┬┬┬┬┬┬┬─█▌░░█████
 ████▌░░░▀┬┼┼┼┼┼┼┼┬▀░░░▐████
 █████▄░░░└┴┴┴┴┴┴┴┘░░░▄█████
-███████▄░░░░░░░░░░░▄███████ " |lolcat
+███████▄░░░░░░░░░░░▄███████")
 
-python /data/data/com.termux/files/usr/etc/wlc.py
+m = "
+"
 
-if [ -x /data/data/com.termux/files/usr/libexec/termux/command-not-found ]; then
+for msg in m:
 
-        command_not_found_handle() {
+    sys.stdout.write(msg)
 
-                /data/data/com.termux/files/usr/libexec/termux/command-not-found "$1"
+    sys.stdout.flush()
 
-        }
+    time.sleep(0.07)
 
-fi
-
-#PS1='\033[1;31mLZIN~#'
-
-PS1='\[\e[1;34m┌──\a─H─O─R─A─\a──┐\033[1;34m\a┌──\a─D─A─T─A─\a───>\033[1;34m
-
-\a┌─[\033[1;93m \@\033[1;34m ]──[\033[1;93m \d\033[1;34m ]\033[1;34m
-
-\a├─[\033[1;32m\w\033[1;34m]\033[1;34m
-
-\[\e[34m\]└─>\[\e[35m\]LZIN\[\e[34m\][~]:#\[\033[1;96m\] '
-
-echo -e '\e[6 q'
-
+print("")
